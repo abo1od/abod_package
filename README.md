@@ -13,6 +13,10 @@ and the Flutter guide for
 
 TODO: Put a short description of the package here that helps potential users
 know whether this package might be useful for them.
+This is optional for your own personal packages, but if you intend to publish your package you must provide a description, which should be in English. 
+The description should be relatively short—60 to 180 characters—and tell a casual reader what they might want
+to know about your package.
+
 
 ## Features
 
